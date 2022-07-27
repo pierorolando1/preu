@@ -1,5 +1,6 @@
-# Preparación preuniverstaria 🇵🇪
+# Preparación preuniverstaria 
 
+***Valido para universidades peruanas 🇵🇪***
 ### Usage
 
 Start the project:
