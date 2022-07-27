@@ -1,8 +1,8 @@
 # Preparación preuniverstaria 
 
 ***Valido para universidades peruanas 🇵🇪***
-### Usage
 
+### How it works?
 Start the project:
 
 ```
