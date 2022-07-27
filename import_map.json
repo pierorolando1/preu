@@ -8,6 +8,8 @@
     "twind": "https://esm.sh/twind@0.16.17",
     "twind/": "https://esm.sh/twind@0.16.17/",
     "firebase": "https://cdn.skypack.dev/firebase",
-    "firebase/": "https://cdn.skypack.dev/firebase/"
+    "firebase/": "https://cdn.skypack.dev/firebase/",
+    "@firebase": "./utils/firebase.ts",
+    "@features/": "./features/"
   }
 }
